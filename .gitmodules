@@ -1,0 +1,12 @@
+[submodule "cpp_helper"]
+	path = cpp_helper
+	url = https://github.com/water-chika/cpp_helper
+[submodule "win32_helper"]
+	path = win32_helper
+	url = https://github.com/water-chika/win32_helper
+[submodule "hip_dummy"]
+	path = hip_dummy
+	url = https://github.com/water-chika/hip_dummy
+[submodule "uefi_boot_next"]
+	path = uefi_boot_next
+	url = https://github.com/water-chika/uefi_boot_next
